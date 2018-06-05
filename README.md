@@ -4,7 +4,7 @@ Typically, due to two types of reasons, we are using **VALID_FROM_DATE (VFD)** a
 
 1. Automatically store/log changes of data to see when it has been modified and for looking back on past states.
 
-2.	Manually adjusting the future change of data to force it be valid or force it to expire at a given time 
+2. Manually adjusting the future change of data to force it be valid or force it to expire at a given time 
 
 The 1st requirement is important for the past (fact) and the 2nd for the future (plan).
 
